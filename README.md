@@ -19,18 +19,18 @@
   <div class="row">
     <div class="col-sm-4">
       <h3>Column 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>A life without a Ted,a day without chocolate...</p>
+      <p>Website to the new ways to it...</p>
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>Website to the ways to create...</p>
+      <p>Colourful Ted as our wish...</p>
     </div>
     <div class="col-sm-4">
       <h3>Column 3</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>Life full of Ted on ur hand...</p>
+      <p>Creation of the colourful world...</p>
     </div>
   </div>
 </div>
